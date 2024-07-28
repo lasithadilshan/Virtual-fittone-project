@@ -77,5 +77,7 @@ This project is licensed under the MIT License. See the `LICENSE.md` file for mo
 
 ## Images
 ![fiton_home](https://github.com/user-attachments/assets/730fd005-0bac-4692-b21a-340f329b890c)
+![fiton_help](https://github.com/user-attachments/assets/ec15384e-5581-467b-b7c7-03b66843ec95)
+
 
 ---

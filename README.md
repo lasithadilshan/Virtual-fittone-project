@@ -75,4 +75,7 @@ If you wish to contribute to the project, please follow the guidelines outlined 
 ## License
 This project is licensed under the MIT License. See the `LICENSE.md` file for more details.
 
+## Images
+![fiton_home](https://github.com/user-attachments/assets/730fd005-0bac-4692-b21a-340f329b890c)
+
 ---
